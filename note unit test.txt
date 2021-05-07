@@ -1,0 +1,17 @@
+MovieViewModelTest
+>Memuat daftar film
+>>memastikan daftar film tidak null
+>>memastikan jumlah daftar film sesuai dengan yang diharapkan
+
+TvShowViewModelTest
+>Memuat acara tv
+>>memastikan daftar acara tv tidak null
+>>memastikan jumlah daftar acara tv sesuai dengan yang diharapkan
+
+DetailMovieViewModelTest
+>memastikan detail film yang disimpan sesuai dengan yang diharapkan
+>memastikan detail film tidak null
+
+DetailTvShowViewModelTest
+>memastikan detail acara tv yang disimpan sesuai dengan yang diharapkan
+>memastikan detail acara tv tidak null

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">filmKu</string>
+    <string name="movie">movies</string>
+    <string name="tvShow">tv shows</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tools_title">Title</string>
+    <string name="tools_overview">lorem ipsum</string>
+    <string name="overview">Overview</string>
+    <string name="tools_duration">4h 32m</string>
+    <string name="rating">Rating</string>
+    <string name="tools_rating">75%</string>
+    <string name="genre">Genre</string>
+    <string name="tools_genre">Drama, Romance, Music</string>
+    <string name="movie_poster_image">movie poster image</string>
+</resources>

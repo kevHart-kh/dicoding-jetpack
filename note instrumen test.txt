@@ -1,0 +1,11 @@
+menampilkan data film
+>scroll kee posisi terakhir
+>memberi tindakan klik pada data pertama di rv movie
+>menampilkan data detail film
+>memastikan semua textvire menampilkan data yang sama dengan yang diharapkan
+
+menampilkan data acara tv
+>scroll kee posisi terakhir
+>memberi tindakan klik pada data pertama di rv tv show
+>menampilkan data detail acara tv
+>memastikan semua textview menampilkan data yang sama dengan yang diharapkan
